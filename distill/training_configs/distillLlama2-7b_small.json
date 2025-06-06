@@ -1,0 +1,7 @@
+{
+	"initializer_range": 0.02,
+	"num_attention_heads": 32,
+	"num_hidden_layers": 2,
+	"max_position_embeddings": 4096,
+	"vocab_size": 32000
+}

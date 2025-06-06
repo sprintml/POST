@@ -1,0 +1,14 @@
+# torch related
+pytorch-lightning
+
+# hugging face related 
+transformers
+datasets
+optimum
+peft
+
+scikit-learn
+Lightning
+
+#DP related
+opacus
